@@ -5,3 +5,6 @@ For our project, it is using Wi-Fi to upload the collected data from the health 
 - Humidity and Temperature Sensor - DHT20
 - SparkFun 6 Degrees of Freedom Breakout - LSM6DSO
 - Buzzer 5V
+
+# Warning
+server.py is for the AWS server use only
